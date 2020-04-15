@@ -28,3 +28,7 @@
 /.idea/
 
 /*.toml
+
+/*.go
+!/main.go
+!/utils.go

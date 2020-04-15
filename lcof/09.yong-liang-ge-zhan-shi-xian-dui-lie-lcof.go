@@ -24,7 +24,7 @@ type CQueue struct {
 	s1, s2 *stack
 }
 
-func Constructor09() CQueue {
+func Constructor() CQueue {
 	return CQueue{
 		s1: &stack{},
 		s2: &stack{},

@@ -47,5 +47,41 @@ func main() {
 
 	// isSymmetricMain()
 
-	spiralOrderMain()
+	// spiralOrderMain()
+
+	// validateStackSequencesMain()
+
+	// levelOrderMain()
+
+	// verifyPostorderMain()
+
+	// pathSumMain()
+
+	// permutationMain()
+
+	// getLeastNumbersMain()
+
+	// maxSubArrayMain()
+
+	// countDigitOneMain()
+
+	// findNthDigitMain()
+
+	// minNumberMain()
+
+	// translateNumMain()
+
+	// maxValueMain()
+
+	// lengthOfLongestSubstringMain()
+
+	// nthUglyNumberMain()
+
+	// firstUniqCharMain()
+
+	// addMain()
+
+	// constructArrMain()
+
+	// strToIntMain()
 }
