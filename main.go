@@ -61,6 +61,8 @@ func main() {
 
 	// getLeastNumbersMain()
 
+	// MedianFinderMain()
+
 	// maxSubArrayMain()
 
 	// countDigitOneMain()
@@ -78,6 +80,42 @@ func main() {
 	// nthUglyNumberMain()
 
 	// firstUniqCharMain()
+
+	// reversePairsMain()
+
+	// getIntersectionNodeMain()
+
+	// searchMain()
+
+	// missingNumberMain()
+
+	// kthLargestMain()
+
+	// maxDepthMain()
+
+	// isBalancedMain()
+
+	// singleNumbersMain()
+
+	// singleNumberMain()
+
+	// twoSumMain()
+
+	// findContinuousSequenceMain()
+
+	// reverseWordsMain()
+
+	// reverseLeftWordsMain()
+
+	// maxSlidingWindowMain()
+
+	// twoSumMain()
+
+	// isStraightMain()
+
+	// lastRemainingMain()
+
+	// maxProfitMain()
 
 	// addMain()
 
